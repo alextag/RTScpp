@@ -1,0 +1,20 @@
+[File must not have a new line at the end]
+[Name ->] Builder
+[Texture ->] resourses\unit.png
+[ID ->] 1
+[Hp ->] 100
+[Damage per Frame ->] 1
+[Defence ->] 1
+[Speed ->] 2
+[Production (quantity id id ...)->] 1 5
+[Unit Buffs (quantity id id ...)->] 0
+
+[Name ->] Soldier
+[Texture ->] resourses\unit.png
+[ID ->] 2
+[Hp ->] 150
+[Damage per Frame ->] 3
+[Defence ->] 2
+[Speed ->] 2
+[Production (quantity id id ...)->] 0 
+[Unit Buffs (quantity id id ...)->] 0
